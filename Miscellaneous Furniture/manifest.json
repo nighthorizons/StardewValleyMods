@@ -1,0 +1,12 @@
+{
+    "Name": "Miscellaneous Furniture",
+    "Author": "nighthorizons",
+    "Version": "2.0.0",
+    "Description": "Miscellaneous custom furniture created with Furniture Framework.",
+    "UniqueID": "nighthorizons.MiscellaneousFurniture",
+	"UpdateKeys": [ "Nexus:23437" ],
+    "ContentPackFor": {
+		"UniqueID": "leroymilo.FurnitureFramework",
+		"MinimumVersion": "2.0.0"
+    }
+}

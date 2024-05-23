@@ -1,6 +1,0 @@
-{
-	"config.Telescope.name": "Telescope",
-	"config.Telescope.description": "The telescope replaces one of the house plant variants.",
-	"config.Telescope.values.True": "true",
-	"config.Telescope.values.False": "false"
-}

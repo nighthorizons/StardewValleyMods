@@ -1,0 +1,84 @@
+{
+	"$schema": "https://raw.githubusercontent.com/Leroymilo/FurnitureFramework/main/doc/schemas/content.json",
+
+	"Format": 2,
+
+	"Furniture": {
+		
+		"telescope": {
+			"Display Name": "Telescope",
+			"Price": 0,
+			"Rotations": 1,
+			"Collisions": { "Width": 1, "Height": 1 },
+			"Placement Restriction": 2,
+
+			"Source Image": "assets/telescope.png",
+			"Source Rect": {"X": 0, "Y": 0, "Width": 16, "Height": 32},
+			"Exclude from Random Sales": false,
+			"Shows in Shops": ["Carpenter","Traveler","Furniture Catalogue"]
+		},
+		
+		
+		"motorcycle": {
+			"Display Name": "{{ImageVariant}} Motorcycle",
+			"Price": 0,
+			"Rotations": 1,
+			"Collisions": { "Width": 3, "Height": 1},
+			"Placement Restriction": 1,
+
+			"Source Image": {
+				"Blue": "assets/blue_motorcycle.png",
+				"Purple": "assets/purple_motorcycle.png"
+			},			
+			"Source Rect": {"X": 0, "Y": 0, "Width": 47, "Height": 24},
+			"Exclude from Random Sales": false,
+			"Shows in Shops": ["Carpenter","Traveler","Furniture Catalogue"]
+		},
+		
+		"guitar": {
+			"Display Name": "{{ImageVariant}} Guitar",
+			"Price": 0,
+			"Rotations": 1,
+			"Collisions": { "Width": 1, "Height": 1},
+			"Placement Restriction": 2,
+
+			"Source Image": {
+				"Blue": "assets/blue_guitar.png",
+				"Purple": "assets/purple_guitar.png"
+			},			
+			"Source Rect": {"X": 0, "Y": 0, "Width": 24, "Height": 47},
+			"Exclude from Random Sales": false,
+			"Shows in Shops": ["Carpenter","Traveler","Furniture Catalogue"]
+		},
+		
+		
+		"keyboard": {
+			"Display Name": "Keyboard",
+			"Price": 0,
+			"Rotations": 1,
+			"Collisions": { "Width": 2, "Height": 1 },
+			"Placement Restriction": 0,
+
+			"Source Image": "assets/keyboard.png",
+			"Source Rect": {"X": 0, "Y": 0, "Width": 26, "Height": 21},
+			"Exclude from Random Sales": false,
+			"Shows in Shops": ["Carpenter","Traveler","Furniture Catalogue"]
+		},
+		
+		
+		"Drumkit": {
+			"Display Name": "Drumkit",
+			"Price": 0,
+			"Rotations": 1,
+			"Collisions": { "Width": 2, "Height": 1 },
+			"Placement Restriction": 0,
+
+			"Source Image": "assets/drumkit.png",
+			"Source Rect": {"X": 0, "Y": 0, "Width": 32, "Height": 28},
+			"Exclude from Random Sales": false,
+			"Shows in Shops": ["Carpenter","Traveler","Furniture Catalogue"]
+		}
+		
+		
+	}
+}
