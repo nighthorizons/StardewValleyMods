@@ -1,4 +1,4 @@
-This repository contains my SMAPI mods for Stardew Valley. See the individual mods for documentation and release notes. Thanks Pathoschild for the readme format!
+This repository contains my SMAPI mods for Stardew Valley. See the individual mods for documentation and release notes. Downloads for mods are only available on [NexusMods](https://next.nexusmods.com/profile/nighthorizons/mods). (Thanks Pathoschild for the readme format!)
 
 ## Mods
 * **Miscellaneous Furniture** ( [Nexus](https://www.nexusmods.com/stardewvalley/mods/23437) | [Source](MiscellaneousFurniture) )  
