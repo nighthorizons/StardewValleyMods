@@ -1,10 +1,8 @@
-This repository contains my SMAPI mods for Stardew Valley. See the individual mods for documentation and release notes.
-
-Thanks Pathoschild for the readme format!
+This repository contains my SMAPI mods for Stardew Valley. See the individual mods for documentation and release notes. Thanks Pathoschild for the readme format!
 
 ## Mods
 * **Miscellaneous Furniture** ( [Nexus](https://www.nexusmods.com/stardewvalley/mods/23437) | [Source](MiscellaneousFurniture) )  
-_Uses Content Patcher to replace certain vanilla furniture with new items._
+_2.0 uses FurnitureFramework to create custom items from vanilla game sprites and new artwork._
 
 ## Translations
 The mods can be translated into any language supported by the game, and SMAPI will automatically use the right translations.
